@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-1: Implementation of Bayesian Networks</H1>
 
-### Name: 
-### Register Number:
+### Name: Gowtham S
+### Register Number: 2305002008
 
 
 ## Aim:
