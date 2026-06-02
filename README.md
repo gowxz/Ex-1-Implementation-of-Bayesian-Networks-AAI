@@ -140,6 +140,45 @@ plt.show()
 ---
 
 ## Output:
+```
+Date Location  MinTemp  MaxTemp  Rainfall  Evaporation  Sunshine  \
+0  01-12-2008   Albury     13.4     22.9       0.6     5.469824  7.624853   
+1  02-12-2008   Albury      7.4     25.1       0.0     5.469824  7.624853   
+2  03-12-2008   Albury     12.9     25.7       0.0     5.469824  7.624853   
+3  04-12-2008   Albury      9.2     28.0       0.0     5.469824  7.624853   
+4  05-12-2008   Albury     17.5     32.3       1.0     5.469824  7.624853   
+
+  WindGustDir  WindGustSpeed WindDir9am WindDir3pm  WindSpeed9am  \
+0           W           44.0          W        WNW          20.0   
+1         WNW           44.0        NNW        WSW           4.0   
+2         WSW           46.0          W        WSW          19.0   
+3          NE           24.0         SE          E          11.0   
+4           W           41.0        ENE         NW           7.0   
+
+   WindSpeed3pm  Humidity9am  Humidity3pm  Pressure9am  Pressure3pm  Cloud9am  \
+0          24.0         71.0         22.0       1007.7       1007.1  8.000000   
+1          22.0         44.0         25.0       1010.6       1007.8  4.437189   
+2          26.0         38.0         30.0       1007.6       1008.7  4.437189   
+3           9.0         45.0         16.0       1017.6       1012.8  4.437189   
+4          20.0         82.0         33.0       1010.8       1006.0  7.000000   
+
+   Cloud3pm  Temp9am  Temp3pm RainToday  RISK_MM RainTomorrow  \
+0  4.503167     16.9     21.8        No      0.0           No   
+1  4.503167     17.2     24.3        No      0.0           No   
+2  2.000000     21.0     23.2        No      0.0           No   
+3  4.503167     18.1     26.5        No      1.0           No   
+4  8.000000     17.8     29.7        No      0.2           No   
+
+  WindGustSpeedCat Humidity9amCat Humidity3pmCat  
+0          1.40-50          1.>60         0.<=60  
+1          1.40-50         0.<=60         0.<=60  
+2          1.40-50         0.<=60         0.<=60  
+3           0.<=40         0.<=60         0.<=60  
+4          1.40-50          1.>60         0.<=60
+```
+
+
+<img width="484" height="482" alt="image" src="https://github.com/user-attachments/assets/3406da59-fed6-4403-8d98-671946b2bdf3" />
 
 
 
